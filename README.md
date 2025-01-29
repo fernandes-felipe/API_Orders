@@ -27,3 +27,8 @@ Study Java Spring Boot With RabbitMQ and MongoDB
            }
        ]
    }
+````
+## cURL Example
+````
+curl --location 'http://localhost:8080/customers/1/orders?page=0&pageSize=2'
+````
